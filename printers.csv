@@ -1,0 +1,27 @@
+Name;DriverName;PortName;Comment;Location
+IMP LABO ESI;HP Color LaserJet M552 PCL 6;192.168.4.45;HP Color LaserJet M552 PCL 6 (8.0.1329.6764);Labo
+IMP RDJ;Canon Generic Plus PCL6;192.168.4.54;Imprimante RDJ;RDJ
+IMP1 9eme Silly;Canon Generic Plus PCL6;192.168.4.19;;Silly: 9ème étage
+IMP1 8eme Silly;Canon Generic Plus PCL6;192.168.4.18;;Silly: 8ème étage
+IMP1 7eme Silly;Canon Generic Plus PCL6;192.168.4.10;;Silly: 7ème étage
+IMP1 6eme 13LP;Canon Generic Plus PCL6;192.168.4.66;Open Space Box / FRA;13LP: 6ème étage, Open Space Box / FRA
+IMP3 5eme 13LP;HP LaserJet 400 M401 PCL 6;192.168.4.130;Bureau VGAUTHIER;13LP: 5ème étage, bureau VGAUTHIER
+IMP1 5eme 13LP;Canon Generic Plus PCL6;192.168.4.13;Espace DG;13LP: 5ème étage, Espace DG
+IMP7 4eme 13LP;HP LaserJet Pro M402-M403 PCL-6;192.168.4.57;Bureau HBIGDAD / ABENBOUBAKER;13LP: 4ème étage, bureau HBIGDAD / ABENBOUBAKER
+IMP6 4eme 13LP;HP LaserJet Pro M402-M403 PCL-6;192.168.4.44;Bureau LVENON / SPOMBO / CGRUET;13LP: 4ème étage, bureau LVENON / SPOMBO / CGRUET
+IMP5 4eme 13LP;HP LaserJet Pro M402-M403 PCL-6;192.168.4.42;Bureau CAURIAULT / LBOUILLER;13LP: 4ème étage
+IMP4 4eme 13LP;Canon Generic Plus PCL6;192.168.4.25;"Espace assistantes ";13LP: 4ème étage
+IMP3 4eme 13LP;Canon Generic Plus PCL6;192.168.4.38;;13LP: 4ème étage
+IMP2 4eme 13LP;Canon Generic Plus PCL6;192.168.4.31;Couloir proche toilettes;13LP: 4ème étage
+IMP1 4eme 13LP;Canon Generic Plus PCL6;192.168.4.21;Espace CDG;13LP: 4ème étage
+IMP2 3eme 13LP;HP LaserJet 400 M401 PCL 6;192.168.4.37;Bureau du fond à gauche;13LP: 3ème étage
+IMP1 3eme 13LP;Canon Generic Plus PCL6;192.168.4.35;Bureaux RH;13LP: 3ème étage
+IMP1 3eme Silly;Canon Generic Plus PCL6;192.168.4.16;;Silly: 4ème étage
+IMP3 2eme 13LP;Canon Generic Plus PCL6;192.168.4.11;"Open Space QAL / COMM ";13LP: 2ème étage
+IMP2 2eme 13LP;Canon Generic Plus PCL6;192.168.4.36;"Open Space proche éscalier de secours ( côté terrasse ) ";13LP: 2ème étage
+IMP1 2eme Silly;Canon Generic Plus PCL6;192.168.4.53;;Silly: 2ème étage
+IMP1 2eme 13LP;Canon Generic Plus PCL6;192.168.4.58;"Open Space BQB ";13LP: 2ème étage
+IMP2 1er 13LP;Canon Generic Plus PCL6;192.168.4.17;"Open Space BQEA ";13LP: 1er étage
+IMP1 1er 13LP;Canon Generic Plus PCL6;192.168.4.33;Open Space TLA / PROD;13LP: 1er étage
+IMP1 1er Silly;Canon Generic Plus PCL6;192.168.4.14;;Silly: 1er étage
+IMP1 RDC 13LP;Canon Generic Plus PCL6;192.168.4.32;Salle d'intégration;13LP: RDC
